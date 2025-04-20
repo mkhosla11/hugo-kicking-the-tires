@@ -5,6 +5,9 @@ title = 'Résumé'
 +++
 
 Mona Khosla's Résumé
+
 University of Pennsylvania 2023-2027
+
 BSE in Computer Science
+
 Minor Engineering Entrepreneurship
